@@ -1,0 +1,48 @@
+body {
+    font-family: Open Sans, sans-serif;
+
+}
+
+header h2{
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+#nav-list {
+    background-color: #E4E4E4;
+}
+
+#nav-list li{
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+#nav-list a {
+    color: #282828;
+    font-size: 1.1em;
+    text-decoration: none;
+}
+
+hr{
+    margin: 0px;
+    width:100%;
+}
+
+#Allcontent h2{
+    font-size: 2em;
+    font-weight: bold;
+    margin: 20px;
+}
+#main-section{
+    background-color: #9FE2BF;
+}
+
+#main-section h3{
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-top: 15px;
+}
+
+#main-section p{
+    padding:20px;
+}
