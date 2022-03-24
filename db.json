@@ -1,0 +1,20 @@
+{
+  "section1": [
+    {
+      "headline": "Don't waste time for poor code, Let's roll with us!",
+      "description": "Crafting incredible digital products for your unique and forward-thinking company. All company sizes welcome.",
+      "buttonLabel": "Let's Roll"
+    }
+  ],
+  "section2": [
+      {
+        "topLine": "Your project is in good hands",
+        "headline": "Extremely quick onboarding process",
+        "descriptionOne":
+        "As a software house we provide web and mobile UX/UI design services and full stack engineering solutions to make your customers find you.",
+        "descriptionTwo":
+        "Our experts will grant efficient design and agile development for long lasting products so that you can focus on defining further goals. Although we support you in your marathon to global success."
+
+      }
+  ]
+}
